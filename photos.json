@@ -1,0 +1,46 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "Club Turan Prince",
+      "isFavorite": true,
+	  "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/70/d1/club-hotel-turan-prince.jpg"
+      "likes": 4
+    },
+    {
+      "id": 2,
+      "title": "Small Rabbit",
+      "isFavorite": false,
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/73/8c/mini-zoo.jpg",
+      "likes": 0
+    },
+	{
+      "id": 3,
+      "title": "Aquapark",
+      "isFavorite": true,
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/84/5a/aquapark.jpg",
+      "likes": 0
+    },
+	{
+      "id": 4,
+      "title": "Games",
+      "isFavorite": false,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2I-MH7Ncxsp7ivUhvB7t5gZ5jRtX-zL_5xbHH9UCFybMTOktQA",
+      "likes": 344
+    },
+	{
+      "id": 4,
+      "title": "Horses",
+      "isFavorite": false,
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/73/8a/mini-zoo.jpg",
+      "likes": 344
+    },
+	{
+      "id": 4,
+      "title": "Sunny beach",
+      "isFavorite": false,
+      "url": "http://krontour.ro/wp-content/gallery/club-turan-prince-world-5/2.jpg",
+      "likes": 344
+    }
+  ]
+}
