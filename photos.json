@@ -3,44 +3,58 @@
     {
       "id": 1,
       "title": "Club Turan Prince",
-      "isFavorite": true,
-	    "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/70/d1/club-hotel-turan-prince.jpg",
-      "likes": 4
+      "likeCounter": 4,
+      "isFavorite": false,
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/70/d1/club-hotel-turan-prince.jpg"
     },
     {
       "id": 2,
       "title": "Small Rabbit",
-      "isFavorite": false,
-      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/73/8c/mini-zoo.jpg",
-      "likes": 0
+      "likeCounter": 6,
+      "isFavorite": true,
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/73/8c/mini-zoo.jpg"
     },
-	{
+    {
       "id": 3,
       "title": "Aquapark",
+      "likeCounter": 11,
       "isFavorite": true,
-      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/84/5a/aquapark.jpg",
-      "likes": 0
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/84/5a/aquapark.jpg"
     },
-	{
+    {
       "id": 4,
       "title": "Games",
+      "likeCounter": 353,
       "isFavorite": false,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2I-MH7Ncxsp7ivUhvB7t5gZ5jRtX-zL_5xbHH9UCFybMTOktQA",
-      "likes": 344
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2I-MH7Ncxsp7ivUhvB7t5gZ5jRtX-zL_5xbHH9UCFybMTOktQA"
     },
-	{
-      "id": 4,
+    {
+      "id": 5,
       "title": "Horses",
+      "likeCounter": 352,
       "isFavorite": false,
-      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/73/8a/mini-zoo.jpg",
-      "likes": 344
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/92/73/8a/mini-zoo.jpg"
     },
-	{
-      "id": 4,
+    {
+      "id": 6,
       "title": "Sunny beach",
+      "likeCounter": 347,
+      "isFavorite": true,
+      "url": "http://krontour.ro/wp-content/gallery/club-turan-prince-world-5/2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sunrise",
+      "likeCounter": 4,
       "isFavorite": false,
-      "url": "http://krontour.ro/wp-content/gallery/club-turan-prince-world-5/2.jpg",
-      "likes": 344
+      "url": "https://images.fineartamerica.com/images-medium-large-5/12-apostles-sunrise-jose-rojas.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Shi Tzu",
+      "likeCounter": 3,
+      "isFavorite": false,
+      "url": "https://cdn2-www.dogtime.com/assets/uploads/gallery/shih-tzu-dog-breed-pictures/shih-tzu-breed-picture-1.jpg"
     }
   ]
 }
